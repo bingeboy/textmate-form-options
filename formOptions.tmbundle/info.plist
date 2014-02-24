@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deleted</key>
+	<array>
+		<string>6EC054D7-2D4F-412C-AD2C-90638F56A513</string>
+		<string>61BDC172-CE7F-45C9-B160-03FCAAAA2941</string>
+	</array>
+	<key>name</key>
+	<string>formOptions</string>
+	<key>ordering</key>
+	<array/>
+	<key>uuid</key>
+	<string>4E2F850F-D4EC-4F6F-A0FC-4615FC1B3B13</string>
+</dict>
+</plist>
